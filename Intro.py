@@ -1,5 +1,17 @@
 import streamlit as st
 from PIL import Image
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background: linear-gradient(135deg, #00FF7F, #1E90FF);
+        background-attachment: fixed;
+        color: white; /* Color del texto */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 st.title("Aplicaciones de Inteligencia Artificial.")
 
 with st.sidebar:
