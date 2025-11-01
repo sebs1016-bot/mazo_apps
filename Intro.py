@@ -86,7 +86,7 @@ with col2:
  st.write(f"[Enlace]({url})")
 
  st.subheader("Control MQTT")
- image = Image.open('the lobster.jpg')
+ image = Image.open('the lobster.jpeg')
  st.image(image, width=200)
  url = "https://sendcmqtt-mxxyp6jy6qkkquywjwtiaa.streamlit.app/"
  st.write(f"[Enlace]({url})")
