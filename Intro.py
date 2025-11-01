@@ -95,7 +95,7 @@ with col2:
 
 with col3: 
  st.subheader("Interfaz voz a texto")
- image = Image.open('the shining.png')
+ image = Image.open('the shining.jpg')
  st.image(image, width=190)
  url = "https://chatpdf-cc.streamlit.app/"
  st.write(f"[Enlace]({url})")
