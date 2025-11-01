@@ -6,7 +6,7 @@ st.markdown(
     .stApp {
         background: linear-gradient(135deg, #00FF7F, #1E90FF);
         background-attachment: fixed;
-        color: white; /* Color del texto */
+        color: black; /* Color del texto */
     }
     </style>
     """,
