@@ -103,7 +103,7 @@ with col3:
  st.subheader("Análisis de texto en inglés")
  image = Image.open('uncut gems.jpg')
  st.image(image, width=200)
- url = "https://2rndnvhzrswx5ytxymjc5z.streamlit.app/"
+ url = "https://https://cjaapfastkwq2hh64aseta.streamlit.app/"
  st.write(f"[Enlace]({url})")
  
  st.subheader("Reconocimiento de gestos")
