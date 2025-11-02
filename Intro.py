@@ -97,7 +97,7 @@ with col3:
  st.subheader("Interfaz voz a texto")
  image = Image.open('the shining.jpg')
  st.image(image, width=190)
- url = "https://traductor-ezttglqmfskzdmpqjhnmjk.streamlit.app/
+ url = "https://traductor-ezttglqmfskzdmpqjhnmjk.streamlit.app/"
  st.write(f"[Enlace]({url})")
 
  st.subheader("Análisis de texto en inglés")
