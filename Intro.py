@@ -115,7 +115,7 @@ with col3:
  st.subheader("Reconocimiento de imagen táctil")
  image = Image.open('your name.jpg')
  st.image(image, width=200)
- url = "https://visionapp-zggx2dteh5vaqqgc6qs23.streamlit.app/"
+ url = "https://visionapp-zggx2dteh5vaqqgc6qs23r.streamlit.app/"
  st.write(f"[Enlace]({url})")
 
  st.subheader("Control por voz MQTT")
